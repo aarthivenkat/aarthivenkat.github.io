@@ -1,0 +1,150 @@
+@article{bunnik2019comparative,
+  title={Comparative 3D genome organization in apicomplexan parasites},
+  author={Bunnik, Evelien M and Venkat, Aarthi and Shao, Jianlin and McGovern, Kathryn E and Batugedara, Gayani and Worth, Danielle and Prudhomme, Jacques and Lapp, Stacey A and Andolina, Chiara and Ross, Leila S and others},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={116},
+  number={8},
+  pages={3183--3192},
+  year={2019},
+  publisher={National Academy of Sciences}
+}
+
+@article{xia2021third,
+  title={Third-generation sequencing revises the molecular karyotype for Toxoplasma gondii and identifies emerging copy number variants in sexual recombinants},
+  author={Xia, Jing and Venkat, Aarthi and Bainbridge, Rachel E and Reese, Michael L and Le Roch, Karine G and Ay, Ferhat and Boyle, Jon P},
+  journal={Genome research},
+  volume={31},
+  number={5},
+  pages={834--851},
+  year={2021},
+  publisher={Cold Spring Harbor Lab}
+}
+
+@article{connolly2021reservoir,
+  title={A reservoir of stem-like CD8+ T cells in the tumor-draining lymph node preserves the ongoing antitumor immune response},
+  author={Connolly, Kelli A and Kuchroo, Manik and Venkat, Aarthi and Khatun, Achia and Wang, Jiawei and William, Ivana and Hornick, Noah I and Fitzgerald, Brittany L and Damo, Martina and Kasmani, Moujtaba Y and others},
+  journal={Science immunology},
+  volume={6},
+  number={64},
+  pages={eabg7836},
+  year={2021},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{su2021twitter,
+  title={Twitter-based analysis reveals differential COVID-19 concerns across areas with socioeconomic disparities},
+  author={Su, Yihua and Venkat, Aarthi and Yadav, Yadush and Puglisi, Lisa B and Fodeh, Samah J},
+  journal={Computers in Biology and Medicine},
+  volume={132},
+  pages={104336},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{connolly2021reservoir,
+  title={A reservoir of stem-like CD8 T cells in the tumor-draining lymph node maintains the ongoing anti-tumor immune response},
+  author={Connolly, Kelli A and Kuchroo, Manik and Venkat, Aarthi and Khatun, Achia and Wang, Jiawei and William, Ivana and Hornick, Noah and Fitzgerald, Brittany and Damo, Martina and Kasmani, Moujtaba Y and others},
+  journal={Biorxiv},
+  pages={2021--01},
+  year={2021},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@article{amodio2022single,
+  title={Single-cell multi-modal GAN reveals spatial patterns in single-cell data from triple-negative breast cancer},
+  author={Amodio, Matthew and Youlten, Scott E and Venkat, Aarthi and San Juan, Beatriz P and Chaffer, Christine L and Krishnaswamy, Smita},
+  journal={Patterns},
+  volume={3},
+  number={9},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{amodio2022single,
+  title={Single-cell multi-modal gan (scmmgan) reveals spatial patterns in single-cell data from triple negative breast cancer},
+  author={Amodio, Matthew and Youlten, Scott E and Venkat, Aarthi and San Juan, Beatriz P and Chaffer, Christine and Krishnaswamy, Smita},
+  journal={bioRxiv},
+  pages={2022--07},
+  year={2022},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@article{garcia2022abstract,
+  title={Abstract C050: Elucidating mechanisms of endocrine-exocrine signaling in obesity-driven pancreatic cancer},
+  author={Garcia, Cathy C and Lawres, Lauren and Agabiti, Sherry and Singh, Jaffarguriqbal and Tong, Alex and Venkat, Aarthi and Burkhardt, Daniel B and Cardone, Rebecca and Kibbey, Richard G and Krishnaswamy, Smita and others},
+  journal={Cancer Research},
+  volume={82},
+  number={22\_Supplement},
+  pages={C050--C050},
+  year={2022},
+  publisher={The American Association for Cancer Research}
+}
+
+@inproceedings{garcia2022elucidating,
+  title={Elucidating mechanisms of endocrine-exocrine signaling in obesity-driven pancreatic cancer.},
+  author={Garcia, Cathy C and Lawres, Lauren and Agabiti, Sherry and Singh, Jaffarguriqbal and Tong, Alex and Venkat, Aarthi and Burkhardt, Daniel B and Cardone, Rebecca and Kibbey, Richard G and Krishnaswamy, Smita and others},
+  booktitle={CANCER RESEARCH},
+  volume={82},
+  number={22},
+  pages={145--146},
+  year={2022},
+  organization={AMER ASSOC CANCER RESEARCH 615 CHESTNUT ST, 17TH FLOOR, PHILADELPHIA, PA~…}
+}
+
+@article{tong2023learning,
+  title={Learning transcriptional and regulatory dynamics driving cancer cell plasticity using neural ODE-based optimal transport},
+  author={Tong, Alexander and Kuchroo, Manik and Gupta, Shabarni and Venkat, Aarthi and Perez San Juan, Beatriz and Rangel, Laura and Zhu, Brandon and Lock, John G and Chaffer, Christine and Krishnaswamy, Smita},
+  journal={bioRxiv},
+  pages={2023--03},
+  year={2023},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@article{leone2023graph,
+  title={Graph Fourier MMD for Signals on Graphs},
+  author={Leone, Samuel and Venkat, Aarthi and Huguet, Guillaume and Tong, Alexander and Wolf, Guy and Krishnaswamy, Smita},
+  journal={arXiv preprint arXiv:2306.02508},
+  year={2023}
+}
+
+@article{venkat2023multiscale,
+  title={Multiscale geometric and topological analyses for characterizing and predicting immune responses from single cell data},
+  author={Venkat, Aarthi and Bhaskar, Dhananjay and Krishnaswamy, Smita},
+  journal={Trends in Immunology},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@article{bhaskar2023inferring,
+  title={Inferring dynamic regulatory interaction graphs from time series data with perturbations},
+  author={Bhaskar, Dhananjay and Magruder, Sumner and De Brouwer, Edward and Venkat, Aarthi and Wenkel, Frederik and Wolf, Guy and Krishnaswamy, Smita},
+  journal={arXiv preprint arXiv:2306.07803},
+  year={2023}
+}
+
+@article{damo2023pd,
+  title={PD-1 maintains CD8 T cell tolerance towards cutaneous neoantigens},
+  author={Damo, Martina and Hornick, Noah I and Venkat, Aarthi and William, Ivana and Clulo, Kathryn and Venkatesan, Srividhya and He, Jiaming and Fagerberg, Eric and Loza, Jennifer L and Kwok, Darwin and others},
+  journal={Nature},
+  pages={1--9},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{venkat2023mapping,
+  title={Mapping the gene space at single-cell resolution with gene signal pattern analysis},
+  author={Venkat, Aarthi and Damo, Martina and Joshi, Nikhil S and Krishnaswamy, Smita},
+  journal={The Journal of Immunology},
+  volume={210},
+  number={1\_Supplement},
+  pages={251--03},
+  year={2023},
+  publisher={American Association of Immunologists}
+}
+
+@article{venkat2023directed,
+  title={Directed Scattering for Knowledge Graph-based Cellular Signaling Analysis},
+  author={Venkat, Aarthi and Chew, Joyce and Rodriguez, Ferran Cardoso and Tape, Christopher J and Perlmutter, Michael and Krishnaswamy, Smita},
+  journal={arXiv preprint arXiv:2309.07813},
+  year={2023}
+}
