@@ -29,7 +29,7 @@ bio: My research involves using graph representation learning to better understa
 # Interests to show in About widget
 interests:
   - Computational Biology
-  - Graph machine Learning
+  - Graph-based Machine Learning
   - Single-cell analysis
 
 # Education to show in About widget
