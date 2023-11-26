@@ -9,8 +9,6 @@ tags: []
 featured: false
 
 ---
-
----
 title: Learning directed and hyperbolic embeddings
 event: Graph Signal Processing Workshop
 event_url: https://gspworkshop.org/
