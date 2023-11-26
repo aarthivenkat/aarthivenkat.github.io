@@ -7,7 +7,7 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
-
+---
 ---
 title: Learning directed and hyperbolic embeddings
 event: Graph Signal Processing Workshop
