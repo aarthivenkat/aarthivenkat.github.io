@@ -13,5 +13,5 @@ date: '2023-01-01'
 publishDate: '2023-11-26T20:48:03.802781Z'
 publication_types:
 - article-journal
-publication: '*arXiv preprint arXiv:2306.07803*'
+publication: '*LoG Conference 2023'
 ---
