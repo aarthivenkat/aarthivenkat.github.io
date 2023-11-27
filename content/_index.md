@@ -36,6 +36,11 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+
+  - block: collection
+    id: network
+    content:
+      <div class="flourish-embed flourish-network" data-src="visualisation/15913395"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   - block: about.biography
     id: about
     content:
