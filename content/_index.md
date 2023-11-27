@@ -57,8 +57,7 @@ sections:
     design:
       columns: '2'
       view: citation
-
-- block: collection
+  - block: collection
     id: presentations
     content:
       title: Presentations
