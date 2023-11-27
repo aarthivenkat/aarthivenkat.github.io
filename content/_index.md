@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2023-11-26
 type: landing
 
 sections:
@@ -57,4 +57,15 @@ sections:
     design:
       columns: '2'
       view: citation
+
+- block: collection
+    id: presentations
+    content:
+      title: Presentations
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
 ---
