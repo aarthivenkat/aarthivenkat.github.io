@@ -59,7 +59,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks
+      title: Presentations
       filters:
         folders:
           - event
