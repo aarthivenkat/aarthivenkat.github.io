@@ -95,5 +95,5 @@ social:
 highlight_name: true
 ---
 
-Aarthi Venkat is a Ph.D. candidate of Computational Biology and Bioinformatics at Yale University. The goal of her graduate research is to better characterize cellular and molecular behavior through leveraging geometric structure for learning meaningful representations. This is work is in close collaboration with multiple departments and institutions, spanning a broad range of questions, including heterogeneity, dynamics, signaling, and cross-dataset comparison.
+Aarthi Venkat is a Ph.D. candidate of Computational Biology and Bioinformatics at Yale University. The goal of her graduate research is to better characterize cellular and molecular behavior through leveraging geometric structure for learning meaningful representations. This work is in close collaboration with multiple departments and institutions, spanning a broad range of questions, including cellular heterogeneity, dynamics, signaling, and cross-dataset comparison.
 {style="text-align: justify;"}
