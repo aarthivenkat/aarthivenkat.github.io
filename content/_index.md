@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: publications
     content:
       title: Publications and Preprints
       text: |-
@@ -57,7 +58,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: presentations
     content:
       title: Presentations
       filters:
