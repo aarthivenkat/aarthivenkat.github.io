@@ -1,6 +1,6 @@
 
 ---
-title: TrajectoryNet
+title: TrajectoryNet 
 summary: A Tong*, M Kuchroo*, S Gupta, A Venkat,...,CL Chaffer, S Krishnaswamy. *Nature* In Review.
 tags:
   - Cellular Dynamics
