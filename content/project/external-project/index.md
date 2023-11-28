@@ -14,16 +14,16 @@ external_link: ''
 image:
   caption: AAnet Overview
   focal_point: Smart
-links:
-- icon: github
-  name: Code
-  icon_pack: fab
-  link: https://github.com/KrishnaswamyLab/AAnet
-- icon: people-group
-  icon_pack: fas
-  name: CSHL Systems Immunology 2021
-  link: uploads/CSHL_poster.pdf
-- icon: hourglass
-  icon_pack: fas
-  name: Manuscript in Preparation
+social:
+  - icon: github
+    name: Code
+    icon_pack: fab
+    link: https://github.com/KrishnaswamyLab/AAnet
+  - icon: people-group
+    icon_pack: fas
+    name: CSHL Systems Immunology 2021
+    link: uploads/CSHL_poster.pdf
+  - icon: hourglass
+    icon_pack: fas
+    name: Manuscript in Preparation
 ---
