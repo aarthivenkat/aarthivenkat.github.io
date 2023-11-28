@@ -1,7 +1,7 @@
 
 ---
 title: Multiscale analyses review
-summary: A Venkat, D Bhaskar, S Krishnaswamy. *Cell Trends in Immunology* 2023.
+summary: A Venkat, D Bhaskar, S Krishnaswamy. *Cell Trends in Immunology*.
 tags:
   - Cellular Heterogeneity
   - Multiscale structure
