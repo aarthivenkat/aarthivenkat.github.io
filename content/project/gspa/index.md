@@ -8,6 +8,7 @@ tags:
   - Patient-level Analysis
   - Multiscale structure
   - Biological prior knowledge
+  - First Author
 date: "2023-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -17,9 +18,9 @@ image:
   caption: GSPA Overview
   focal_point: Smart
 links:
-  - icon: biorxiv
+  - icon: paperclip
     name: Paper
-    icon_pack: ai
+    icon_pack: fas
     url: https://www.biorxiv.org/content/10.1101/2023.11.26.568492v1
   - icon: github
     name: Code
