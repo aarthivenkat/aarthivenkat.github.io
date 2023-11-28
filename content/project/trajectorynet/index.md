@@ -11,7 +11,7 @@ date: "2023-11-27T00:00:00Z"
 external_link: 'https://www.biorxiv.org/content/10.1101/2023.03.28.534644v1.full'
 
 #image:
-#  caption: GSPA Overview
+#  caption: TNet Overview
 #  focal_point: Smart
 links:
   - icon: paperclip
