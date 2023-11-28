@@ -65,7 +65,7 @@ sections:
         - name: Patient-level Analysis
           tag: Patient-level Analysis
         - name: Multiscale structure
-          tag: Multiscale tructure
+          tag: Multiscale structure
         - name: Multimodal mapping
           tag: Multimodal mapping
         - name: Cellular Dynamics
