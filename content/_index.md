@@ -74,6 +74,8 @@ sections:
           tag: Biological prior knowledge
         - name: Cellular Signaling
           tag: Cellular Signaling
+        - name: First Author
+          tag: First author
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
