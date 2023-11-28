@@ -10,7 +10,7 @@ date: "2023-11-27T00:00:00Z"
 external_link: 'https://www.science.org/doi/10.1126/sciimmunol.abg7836'
 
 #image:
-#  caption: PD-1 Overview
+#  caption: Reservoir Overview
 #  focal_point: Smart
 links:
   - icon: paperclip
