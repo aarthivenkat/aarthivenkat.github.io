@@ -12,7 +12,7 @@ date: "2023-11-27T00:00:00Z"
 external_link: ''
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: AAnet Overview
   focal_point: Smart
 links:
 - icon: github
