@@ -1,6 +1,6 @@
 ---
 title: AAnet
-summary: A Venkat*, S Youlten*, ... S Krishnaswamy, CL Chaffer. In Preparation.
+summary: A Venkat*, S Youlten*,..., S Krishnaswamy, CL Chaffer. In Preparation.
 
 tags:
   - Cellular Heterogeneity
