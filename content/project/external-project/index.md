@@ -1,6 +1,7 @@
 ---
 title: AAnet
-summary: AAnet deconvolutes primary and metastatic tumor heterogeneity into spatially-localized archetypes. In collaboration with Christine Chaffer.
+summary: A Venkat*, S Youlten*, ... S Krishnaswamy, CL Chaffer. In Preparation.
+
 tags:
   - Cellular Heterogeneity
   - Cellular Signaling
