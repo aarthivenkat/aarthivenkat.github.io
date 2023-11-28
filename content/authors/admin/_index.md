@@ -61,7 +61,7 @@ social:
     link: https://scholar.google.com/citations?hl=en&user=Z8c9_0QAAAAJ&view_op=list_works
   - icon: github
     icon_pack: fab
-    link: https://github.com/aarthivenkat
+    link: https://github.com/KrishnaswamyLab/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aarthi-venkat/
