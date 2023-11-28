@@ -17,6 +17,10 @@ image:
   caption: GSPA Overview
   focal_point: Smart
 links:
+  - icon: biorxiv
+    name: Paper
+    icon_pack: ai
+    url: https://www.biorxiv.org/content/10.1101/2023.11.26.568492v1
   - icon: github
     name: Code
     icon_pack: fab
