@@ -1,7 +1,7 @@
 
 ---
 title: Gene Signal Pattern Analysis
-summary: Mapping the gene space at single-cell resolution enables characterization of gene-gene relationships beyond cell types. In collaboration with Nikhil Joshi.
+summary: A Venkat, S Leone, S Youlten, E Fagerberg, J Attanasio, NS Joshi, S Krishnaswamy. *Nature Computational Science* In Review.
 tags:
   - Cellular Heterogeneity
   - Cellular Signaling
