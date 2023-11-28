@@ -1,7 +1,7 @@
 
 ---
 title: PD-1 maintains CD8+ T cell tolerance
-summary: M Damo, N Hornick, A Venkat … S Krishnaswamy, N Joshi. *Nature* 2023.
+summary: M Damo, N Hornick, A Venkat,...,S Krishnaswamy, N Joshi. *Nature* 2023.
 tags:
   - Cellular Heterogeneity
   - Cellular Signaling
