@@ -82,29 +82,4 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
-  - block: collection
-    id: publications
-    content:
-      title: Publications and Preprints
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: presentations
-    content:
-      title: Presentations
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: list
 ---
