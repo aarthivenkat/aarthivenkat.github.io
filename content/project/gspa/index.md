@@ -14,9 +14,9 @@ date: "2023-11-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://www.biorxiv.org/content/10.1101/2023.11.26.568492v1'
 
-image:
-  caption: GSPA Overview
-  focal_point: Smart
+#image:
+#  caption: GSPA Overview
+#  focal_point: Smart
 links:
   - icon: paperclip
     name: Paper
