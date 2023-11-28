@@ -20,10 +20,10 @@ links:
   icon_pack: fab
   link: https://github.com/KrishnaswamyLab/AAnet
 - icon: people-group
-  icon_pack: fab
+  icon_pack: fas
   name: CSHL Systems Immunology 2021
   link: uploads/CSHL_poster.pdf
 - icon: hourglass
-  icon_pack: fab
+  icon_pack: fas
   name: Manuscript in Preparation
 ---
