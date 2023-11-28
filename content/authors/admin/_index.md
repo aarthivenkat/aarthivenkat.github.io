@@ -26,25 +26,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research involves using graph representation learning to better understand single-cell biology.
 
-# Interests to show in About widget
-interests:
-  - Computational Biology
-  - Graph-based Machine Learning
-  - Single-cell analysis
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Computational Biology & Bioinformatics
-      institution: Yale University
-      year: 2024
-    - course: MS in Computational Biology & Bioinformatics
-      institution: Yale University
-      year: 2021
-    - course: BS in Bioengineering, Bioinformatics
-      institution: University of California, San Diego
-      year: 2019
-
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
