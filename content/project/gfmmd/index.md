@@ -1,7 +1,7 @@
 
 ---
 title: GFMMD
-summary: Graph Fourier MMD for Signals on Graphs. 
+summary: S Leone, A Tong, G Huguet, A Venkat, G Wolf, S Krishnaswamy. SampTA 2023.
 tags:
   - Cellular Heterogeneity
   - Cellular Signaling
@@ -27,5 +27,5 @@ links:
     name: SAMPTA 2023
   - icon: square-check
     icon_pack: fas
-    name: Manuscript Publishd
+    name: Manuscript Published
 ---
