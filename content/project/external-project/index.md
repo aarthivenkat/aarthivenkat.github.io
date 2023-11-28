@@ -14,6 +14,7 @@ external_link: ''
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
+links:
 - icon: github
   name: Code
   icon_pack: fab
