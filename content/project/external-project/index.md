@@ -12,9 +12,9 @@ date: "2023-11-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: AAnet Overview
-  focal_point: Smart
+#image:
+#  caption: AAnet Overview
+#  focal_point: Smart
 links:
   - icon: github
     name: Code
