@@ -7,12 +7,6 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Publications
-    url: '#publications'
-    weight: 50
-  - name: Presentations
-    url: '#presentations'
-    weight: 50
   - name: CV
     url: 'uploads/Venkat_CV_2023.pdf'
     weight: 60
