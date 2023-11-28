@@ -26,7 +26,7 @@ links:
   - icon: people-group
     icon_pack: fas
     name: GSP 2023
-    url: uploads/GSPA_2023_final.pdf
+    url: uploads/GSP_2023_final.pdf
   - icon: arrows-spin
     icon_pack: fas
     name: Manuscript in Review
