@@ -1,7 +1,7 @@
 
 ---
 title: scMMGAN
-summary: M Amodio, SE Youlten, A Venkat...CL Chaffer, S Krishnaswamy. *Cell Patterns*.
+summary: M Amodio, SE Youlten, A Venkat,...,CL Chaffer, S Krishnaswamy. *Cell Patterns*.
 tags:
   - Multimodal mapping
 date: "2023-11-27T00:00:00Z"
