@@ -13,9 +13,6 @@ date: "2023-11-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://arxiv.org/abs/2306.02508'
 
-image:
-  caption: GFMMD Overview
-  focal_point: Smart
 links:
   - icon: paperclip
     name: Paper
