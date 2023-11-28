@@ -60,13 +60,23 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Cellular Heterogeneity
+          tag: Cellular Heterogeneity
+        - name: Patient-level Analysis
+          tag: Patient-level Analysis
+        - name: Multiscale structure
+          tag: Multiscale tructure
+        - name: Multimodal mapping
+          tag: Multimodal mapping
+        - name: Cellular Dynamics
+          tag: Cellular Dynamics
+        - name: Biological prior knowledge
+          tag: Biological prior knowledge
+        - name: Cellular Signaling
+          tag: Cellular Signaling
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
