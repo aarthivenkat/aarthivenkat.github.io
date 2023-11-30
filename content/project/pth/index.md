@@ -1,7 +1,7 @@
 
 ---
 title: Parathyroid single-cell atlas
-summary: M Carlino*, B Lawton*, A Venkat* … S Krishnaswamy, D Krause. *Genome Research* In Review.
+summary: M Carlino*, B Lawton*, A Venkat*,...,S Krishnaswamy, D Krause. *Genome Research* In Review.
 tags:
   - Multimodal mapping
   - Cellular Signaling
