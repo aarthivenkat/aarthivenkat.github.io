@@ -1,7 +1,7 @@
 
 ---
 title: β cell pro-tumorigenic dynamics
-summary: C Garcia*, A Venkat*,..., S Krishnaswamy, MD Muzumdar. In Preparation.
+summary: C Garcia*, A Venkat*,...,S Krishnaswamy, MD Muzumdar. In Preparation.
 tags:
   - Cellular Heterogeneity
   - Multimodal mapping
