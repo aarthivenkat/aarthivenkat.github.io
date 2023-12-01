@@ -76,7 +76,7 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. candidate of Computational Biology and Bioinformatics at Yale University. The goal of my graduate research is to better characterize cellular and molecular behavior through leveraging geometric structure for learning meaningful representations. This work is in close collaboration with multiple departments and institutions, spanning a broad range of research areas, including cellular heterogeneity, dynamics, signaling, and cross-dataset comparison.
+I am a Ph.D. candidate of Computational Biology and Bioinformatics at Yale University. The goal of my graduate research is to better characterize cellular and molecular behavior through leveraging geometric structure for learning meaningful representations. This work is in close collaboration with multiple departments and institutions, spanning a broad range of research areas, including cellular heterogeneity, dynamics, signaling, and cross-dataset comparison. My work has appeared in journals such as Nature, Science Immunology, Cell Patterns, and Cell Trends in Immunology, and is in review at Genome Research, Nature, and Nature Computational Science. Additionally, my work has been presented at top computer science and math conferences, including SampTA, LoG, and GSP, and is in review at ICASSP. More papers to be released in the coming months.
 {style="text-align: justify;"}
 
 <div class="flourish-embed flourish-network" data-src="visualisation/15913395"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
