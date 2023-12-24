@@ -76,10 +76,10 @@ social:
 highlight_name: true
 ---
 
-As the scale and scope of biomedical data exponentially increase, machine learning is becoming a crucial part of scientific discovery. In my graduate work at Yale University in the [Krishnaswamy Lab](https://krishnaswamylab.org/), I have developed graph-based representation learning approaches that learn from the graph structure and reveal patterns that characterize cellular and molecular behavior, especially from single-cell sequencing data. My research is highly interdisciplinary, and I have led several high-impact collaborations with multiple departments and institutions, spanning a broad range of research areas. 
+As the scale and scope of biomedical data exponentially increase, unsupervised machine learning is becoming a crucial step toward scientific discovery. In my graduate work at Yale University in the [Krishnaswamy Lab](https://krishnaswamylab.org/), I develop representation learning approaches that learn from geometric structure and reveal patterns that characterize cellular and molecular behavior, especially from single-cell sequencing data. My research is highly interdisciplinary, and I have led several high-impact collaborations with multiple departments and institutions, spanning a broad range of research areas. 
 {style="text-align: justify;"}
 
-This work has appeared in journals such as Nature, Science Immunology, Cell Patterns, and Cell Trends in Immunology, and is in review at Genome Research, Nature, and Nature Computational Science. Additionally, my work has been accepted at notable computer science and graph signal procesing conferences, including SampTA, LoG, GSP, and ICASSP.
+This work has appeared in journals such as _Nature_, _Science Immunology_, _Cell Patterns_, and _Cell Trends in Immunology_, and is in review at _Genome Research_, _Nature_, and _Nature Computational Science_. Additionally, my work has been accepted at notable computer science and graph signal procesing conferences, including SampTA, LoG, GSP, and ICASSP.
 {style="text-align: justify;"}
 
 <div class="flourish-embed flourish-network" data-src="visualisation/15913395"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
