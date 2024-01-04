@@ -1,7 +1,7 @@
 
 ---
 title: Parathyroid single-cell atlas
-summary: A Venkat*, M Carlino*, B Lawton*,...,S Krishnaswamy, D Krause. *Genome Research* In Review.
+summary: A Venkat*, M Carlino*, B Lawton*,...,S Krishnaswamy, D Krause. *Genome Research* In Revision.
 tags:
   - Multimodal mapping
   - Cellular Signaling
@@ -21,5 +21,5 @@ links:
     name: HypoPara Think Tank 2022
   - icon: arrows-spin
     icon_pack: fas
-    name: Manuscript in Review
+    name: Manuscript in Revision
 ---
