@@ -36,5 +36,5 @@ links:
     url: uploads/Immunology_poster.pdf
   - icon: arrows-spin
     icon_pack: fas
-    name: Manuscript in Review
+    name: Manuscript in Revision
 ---
