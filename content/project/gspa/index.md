@@ -1,7 +1,7 @@
 
 ---
 title: Gene Signal Pattern Analysis
-summary: A Venkat, S Leone, S Youlten, E Fagerberg, J Attanasio, NS Joshi, S Krishnaswamy. *Nature Computational Science* In Review.
+summary: A Venkat, S Leone, S Youlten, E Fagerberg, J Attanasio, NS Joshi, S Krishnaswamy. *Nature Computational Science* In Revision.
 tags:
   - Cellular Heterogeneity
   - Cellular Signaling
