@@ -11,7 +11,7 @@ tags:
 date: "2024-05-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://www.biorxiv.org/content/10.1101/2024.05.11.593705v1'
 
 #image:
 #  caption: AAnet Overview
