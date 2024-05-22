@@ -19,7 +19,7 @@ links:
   - icon: people-group
     icon_pack: fas
     name: HypoPara Think Tank 2022
-  - icon: arrows-spin
+  - icon: square-check
     icon_pack: fas
-    name: Manuscript in Revision
+    name: Manuscript Accepted
 ---
