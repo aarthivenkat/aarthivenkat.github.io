@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: CV
-    url: 'uploads/Venkat_CV_2023.pdf'
+    url: 'uploads/Venkat_CV_2024.pdf'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
