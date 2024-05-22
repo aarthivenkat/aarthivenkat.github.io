@@ -16,15 +16,17 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Computational Biology & Bioinformatics
+role: Eric and Wendy Schmidt Center Postdoctoral Fellow @ Broad Institute
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Yale University
     url: https://cbb.yale.edu/
+  - name: Eric and Wendy Schmidt Center
+    url: https://www.ericandwendyschmidtcenter.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research involves using graph representation learning to better understand single-cell biology.
+bio: Geometric representation learning toward insights into cellular and molecular behavior.
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,16 +72,15 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Venkat_CV_2023.pdf
+    link: uploads/Venkat_CV_2024.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-As the scale and scope of biomedical data exponentially increase, unsupervised machine learning is becoming a crucial step toward scientific discovery. In my graduate work at Yale University in the [Krishnaswamy Lab](https://krishnaswamylab.org/), I develop representation learning approaches that learn from geometric structure and reveal patterns that characterize cellular and molecular behavior, especially from single-cell sequencing data. My research is highly interdisciplinary, and I have led several high-impact collaborations with multiple departments and institutions, spanning a broad range of research areas. 
-{style="text-align: justify;"}
+As the scale and scope of biomedical data exponentially increase, unsupervised machine learning is becoming a crucial step toward scientific discovery. During my Ph.D. at Yale University in the [Krishnaswamy Lab](https://krishnaswamylab.org/), I developed representation learning approaches that learn from geometric structure and reveal patterns that characterize cellular and molecular behavior, especially from single-cell sequencing data. In the fall of 2024, I will be starting a postdoctoral fellowship at the Broad Institute to extend these ideas beyond single-cell resolution, bridging knowledge, geometry, and network biology across multiple scales for an integrated, systems-wide approach to discovery and intervention.
 
-This work has appeared in journals such as _Nature_, _Science Immunology_, _Cell Patterns_, and _Cell Trends in Immunology_, and is in review at _Genome Research_, _Nature_, and _Nature Computational Science_. Additionally, my work has been accepted at notable computer science and graph signal procesing conferences, including SampTA, LoG, GSP, and ICASSP.
+My interests are highly interdisciplinary, and I have led collaborations spanning a broad range of research areas, appearing in _Nature_, _Science Immunology_, _Cell Patterns_, _Cell Trends in Immunology_, and _Genome Research_. Additionally, my work has been accepted at notable computer science and graph signal procesing conferences, including SampTA, LoG, GSP, and ICASSP.
 {style="text-align: justify;"}
 
 <div class="flourish-embed flourish-network" data-src="visualisation/15913395"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
