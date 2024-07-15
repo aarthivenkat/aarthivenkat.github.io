@@ -1,7 +1,7 @@
 
 ---
-title: Directed Scattering Autoencoder
-summary: A Venkat*, J Chew*, F Cardoso Rodriguez, CJ Tape, M Perlmutter, S Krishnaswamy. ICASSP 2024.
+title: Directed Scattering for Knowledge Graph-based Cellular Signaling Analysis
+summary: Our Directed Scattering Autoencoder (DSAE) employs a directed version of a geometric scattering transform for embedding nodes of directed graphs.<br /><br />A Venkat*, J Chew*, F Cardoso Rodriguez, CJ Tape, M Perlmutter, S Krishnaswamy. ICASSP 2024.
 tags:
   - Cellular Signaling
   - Biological prior knowledge
