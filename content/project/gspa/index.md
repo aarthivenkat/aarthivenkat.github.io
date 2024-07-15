@@ -1,7 +1,7 @@
 
 ---
-title: Gene Signal Pattern Analysis
-summary: A Venkat, S Leone, S Youlten, E Fagerberg, J Attanasio, NS Joshi, S Krishnaswamy. *Nature Computational Science* In Revision.
+title: Mapping the gene space at single-cell resolution with gene signal pattern analysis
+summary: GSPA learns gene-gene relationships from single-cell data by embedding the gene space.<br /><br />A Venkat, S Leone, S Youlten, E Fagerberg, J Attanasio, NS Joshi, S Krishnaswamy. *Nature Computational Science* In Revision.
 tags:
   - Cellular Heterogeneity
   - Cellular Signaling
