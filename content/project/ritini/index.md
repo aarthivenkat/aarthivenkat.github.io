@@ -1,7 +1,7 @@
 
 ---
-title: RiTINI
-summary: D Bhaskar, S Magruder, E De Brouwer, A Venkat, F Wenkel, G Wolf, S Krishnaswamy. LoG Conference 2023.
+title: Inferring dynamic regulatory interaction graphs from time series data with perturbations
+summary: RiTINI infers time-varying interaction graphs to predict casual behavior of a system. D Bhaskar, S Magruder, E De Brouwer, A Venkat, F Wenkel, G Wolf, S Krishnaswamy. LoG Conference 2023.
 tags:
   - Biological prior knowledge
   - Cellular Dynamics
