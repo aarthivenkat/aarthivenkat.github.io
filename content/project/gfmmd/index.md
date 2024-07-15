@@ -1,7 +1,7 @@
 
 ---
-title: GFMMD
-summary: S Leone, A Tong, G Huguet, A Venkat, G Wolf, S Krishnaswamy. SampTA 2023.
+title: Graph Fourier MMD for Signals on Graphs
+summary: GFMMD embeds signals defined on graphs via an optimal witness function.<br /><br />S Leone, A Tong, G Huguet, A Venkat, G Wolf, S Krishnaswamy. SampTA 2023.
 tags:
   - Cellular Heterogeneity
   - Cellular Signaling
