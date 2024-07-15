@@ -1,7 +1,7 @@
 
 ---
 title: Single-cell analysis reveals transcriptional dynamics in primary parathyroid tissue
-summary: The first parathyroid single-cell atlas of primary parathyroid tissue.<br /><br />A Venkat*, M Carlino*, B Lawton*,...,S Krishnaswamy, D Krause. *Genome Research* In Revision.
+summary: The first parathyroid single-cell atlas of primary parathyroid tissue.<br /><br />A Venkat*, M Carlino*, B Lawton*,...,S Krishnaswamy, D Krause. *Genome Research*.
 tags:
   - Multimodal mapping
   - Cellular Signaling
@@ -21,5 +21,5 @@ links:
     name: HypoPara Think Tank 2022
   - icon: square-check
     icon_pack: fas
-    name: Manuscript Accepted
+    name: Manuscript Published
 ---
