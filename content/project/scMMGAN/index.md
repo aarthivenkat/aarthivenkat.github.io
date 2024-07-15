@@ -1,7 +1,7 @@
 
 ---
-title: scMMGAN
-summary: M Amodio, SE Youlten, A Venkat,...,CL Chaffer, S Krishnaswamy. *Cell Patterns*.
+title: Single-cell multi-modal GAN reveals spatial patterns in single-cell data from triple-negative breast cancer
+summary: scMMGAN uses adversarial learning to integrate single-cell and spatial modalities.<br /><br />M Amodio, SE Youlten, A Venkat,...,CL Chaffer, S Krishnaswamy. *Cell Patterns*.
 tags:
   - Multimodal mapping
 date: "2023-11-27T00:00:00Z"
