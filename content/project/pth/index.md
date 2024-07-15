@@ -1,7 +1,7 @@
 
 ---
-title: Parathyroid single-cell atlas
-summary: A Venkat*, M Carlino*, B Lawton*,...,S Krishnaswamy, D Krause. *Genome Research* In Revision.
+title: Single-cell analysis reveals transcriptional dynamics in primary parathyroid tissue
+summary: The first parathyroid single-cell atlas of primary parathyroid tissue.<br /><br />A Venkat*, M Carlino*, B Lawton*,...,S Krishnaswamy, D Krause. *Genome Research* In Revision.
 tags:
   - Multimodal mapping
   - Cellular Signaling
