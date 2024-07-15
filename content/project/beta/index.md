@@ -13,9 +13,6 @@ date: "2023-11-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-#image:
-#  caption: Beta Overview
-#  focal_point: Smart
 links:
   - icon: people-group
     icon_pack: fas
