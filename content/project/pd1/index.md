@@ -1,7 +1,7 @@
 
 ---
-title: PD-1 maintains CD8+ T cell tolerance
-summary: M Damo, N Hornick, A Venkat,...,S Krishnaswamy, N Joshi. *Nature* 2023.
+title: PD-1 maintains CD8 T cell tolerance towards cutaneous neoantigens
+summary: PD-1 avoids immunopathology by preventing CD8 T cells to attain fully functional state.<br /><br />M Damo, N Hornick, A Venkat,...,S Krishnaswamy, N Joshi. *Nature* 2023.
 tags:
   - Cellular Heterogeneity
   - Cellular Signaling
