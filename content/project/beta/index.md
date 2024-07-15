@@ -1,7 +1,7 @@
 
 ---
-title: β cell pro-tumorigenic dynamics
-summary: C Garcia*, A Venkat*,...,S Krishnaswamy, MD Muzumdar. In Preparation.
+title: The cellular and molecular mechanisms governing β cell-driven pancreatic adenocarcinoma
+summary: Disentangling the origin of β cells misexpressing pro-tumorigenic hormones in the context of obesity and other stressors.<br /><br />C Garcia*, A Venkat*,...,S Krishnaswamy, MD Muzumdar. In Preparation.
 tags:
   - Cellular Heterogeneity
   - Multimodal mapping
