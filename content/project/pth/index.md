@@ -10,7 +10,7 @@ tags:
 date: "2023-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://genome.cshlp.org/content/34/6/837'
 
 #image:
 #  caption: PTH Overview
@@ -19,11 +19,11 @@ links:
   - icon: people-group
     icon_pack: fas
     name: HypoPara Think Tank 2022
-  - icon: square-check
-    icon_pack: fas
-    name: Manuscript Published
   - icon: github
     name: Code
     icon_pack: fab
     url: https://github.com/KrishnaswamyLab/single-cell-parathyroid-atlas
+  - icon: square-check
+    icon_pack: fas
+    name: Manuscript Published
 ---
