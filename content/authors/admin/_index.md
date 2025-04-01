@@ -80,7 +80,7 @@ highlight_name: true
 
 As the scale and scope of biomedical data exponentially increase, unsupervised machine learning is becoming a crucial step toward scientific discovery. During my Ph.D. at Yale University in the [Krishnaswamy Lab](https://krishnaswamylab.org/), I developed representation learning approaches that learn from geometric structure and reveal patterns that characterize cellular and molecular behavior, especially from single-cell sequencing data. Currently, I am a Postdoctoral Fellow at the Broad Institute to extend these ideas beyond single-cell resolution, bridging knowledge, geometry, and network biology across multiple scales for an integrated, systems-wide approach to discovery and intervention.
 
-My interests are highly interdisciplinary, and I have led collaborations spanning a broad range of research areas, appearing in _Nature_, _Science Immunology_, _Cell Patterns_, _Cell Trends in Immunology_, and _Genome Research_. Additionally, my work has been accepted at notable computer science and graph signal procesing conferences, including SampTA, LoG, GSP, and ICASSP.
+My interests are highly interdisciplinary, and I have led collaborations spanning a broad range of research areas, appearing in _Nature_, _Nature Computational Science_, _Science Immunology_, _Cell Patterns_, and _Genome Research_. Additionally, my work has been accepted at notable computer science and graph signal procesing conferences, including SampTA, LoG, GSP, and ICASSP.
 {style="text-align: justify;"}
 
 <div class="flourish-embed flourish-network" data-src="visualisation/15913395"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
