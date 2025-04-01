@@ -1,7 +1,7 @@
 
 ---
 title: Mapping the gene space at single-cell resolution with gene signal pattern analysis
-summary: GSPA learns gene-gene relationships from single-cell data by embedding the gene space.<br /><br />A Venkat, S Leone, S Youlten, E Fagerberg, J Attanasio, NS Joshi, S Krishnaswamy. *Nature Computational Science* In Revision.
+summary: GSPA learns gene-gene relationships from single-cell data by embedding the gene space.<br /><br />A Venkat, S Leone, S Youlten, E Fagerberg, J Attanasio, NS Joshi, S Krishnaswamy. *Nature Computational Science* 2024.
 tags:
   - Cellular Heterogeneity
   - Cellular Signaling
@@ -12,7 +12,7 @@ tags:
 date: "2023-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.biorxiv.org/content/10.1101/2023.11.26.568492v1'
+external_link: 'https://www.nature.com/articles/s43588-024-00734-0'
 
 #image:
 #  caption: GSPA Overview
@@ -21,7 +21,7 @@ links:
   - icon: paperclip
     name: Paper
     icon_pack: fas
-    url: https://www.biorxiv.org/content/10.1101/2023.11.26.568492v1
+    url: https://www.nature.com/articles/s43588-024-00734-0
   - icon: paperclip
     name: Blog Post
     icon_pack: fas
@@ -38,7 +38,7 @@ links:
     icon_pack: fas
     name: Immunology 2023
     url: uploads/Immunology_poster.pdf
-  - icon: arrows-spin
+  - icon: square-check
     icon_pack: fas
-    name: Manuscript in Revision
+    name: Manuscript Published
 ---
