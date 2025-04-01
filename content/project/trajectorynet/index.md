@@ -1,7 +1,7 @@
 
 ---
 title: Revealing dynamic temporal regulatory networks driving cancer cell state plasticity with neural ODE-based optimal transport
-summary: TrajectoryNet learns continuous and cell-specific trajectories from longitudinal single-cell data.<br /><br />A Tong*, M Kuchroo*, S Gupta, A Venkat,...,CL Chaffer, S Krishnaswamy. *Nature* In Review.
+summary: TrajectoryNet learns continuous and cell-specific trajectories from longitudinal single-cell data.<br /><br />A Tong*, M Kuchroo*, S Gupta, A Venkat,...,CL Chaffer, S Krishnaswamy. In Review.
 tags:
   - Cellular Dynamics
   - Biological prior knowledge
