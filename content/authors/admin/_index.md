@@ -52,12 +52,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:avenkat@broadinstitute.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/scienceaarthi
-    label:
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=Z8c9_0QAAAAJ&view_op=list_works
@@ -72,7 +66,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Venkat_CV_2024.pdf
+    link: uploads/Venkat_CV_2025.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
