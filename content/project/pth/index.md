@@ -27,7 +27,4 @@ links:
     name: Code
     icon_pack: fab
     url: https://github.com/KrishnaswamyLab/single-cell-parathyroid-atlas
-  - icon: square-check
-    icon_pack: fas
-    name: Manuscript Published
 ---
