@@ -25,7 +25,4 @@ links:
   - icon: people-group
     icon_pack: fas
     name: SAMPTA 2023
-  - icon: square-check
-    icon_pack: fas
-    name: Manuscript Published
 ---
