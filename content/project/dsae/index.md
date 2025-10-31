@@ -27,7 +27,4 @@ links:
     icon_pack: fas
     name: GSP 2023
     url: uploads/GSP_2023_final.pdf
-  - icon: square-check
-    icon_pack: fas
-    name: Manuscript Published
 ---
