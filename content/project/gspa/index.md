@@ -22,6 +22,10 @@ links:
     name: Paper
     icon_pack: fas
     url: https://www.nature.com/articles/s43588-024-00734-0
+ - icon: paperclip
+    name: LoG Abstract
+    icon_pack: fas
+    url: https://openreview.net/attachment?id=d59AhkXdqe&name=pdf
   - icon: paperclip
     name: Blog Post
     icon_pack: fas
@@ -38,7 +42,4 @@ links:
     icon_pack: fas
     name: Immunology 2023
     url: uploads/Immunology_poster.pdf
-  - icon: square-check
-    icon_pack: fas
-    name: Manuscript Published
 ---
