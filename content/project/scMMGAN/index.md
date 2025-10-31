@@ -1,7 +1,7 @@
 
 ---
 title: Single-cell multi-modal GAN reveals spatial patterns in single-cell data from triple-negative breast cancer
-summary: scMMGAN uses adversarial learning to integrate single-cell and spatial modalities.<br /><br />M Amodio, SE Youlten, A Venkat,...,CL Chaffer, S Krishnaswamy. *Cell Patterns*.
+summary: scMMGAN uses adversarial learning to integrate single-cell and spatial modalities.<br /><br />M Amodio, SE Youlten, A Venkat,...,CL Chaffer, S Krishnaswamy. *Cell Patterns* 2022.
 tags:
   - Multimodal mapping
 date: "2023-11-27T00:00:00Z"
@@ -21,7 +21,4 @@ links:
     name: Code
     icon_pack: fab
     url: https://github.com/KrishnaswamyLab/scMMGAN
-  - icon: square-check
-    icon_pack: fas
-    name: Manuscript Published
 ---
