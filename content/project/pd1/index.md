@@ -19,7 +19,4 @@ links:
     name: Paper
     icon_pack: fas
     url: https://www.nature.com/articles/s41586-023-06217-y
-  - icon: square-check
-    icon_pack: fas
-    name: Manuscript Published
 ---
