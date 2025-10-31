@@ -22,7 +22,4 @@ links:
     icon_pack: fas
     name: Yale Single Cell Symposium 2022
     url: uploads/SCS_slides.pdf
-  - icon: arrows-spin
-    icon_pack: fas
-    name: Manuscript in Revision
 ---
