@@ -1,7 +1,7 @@
 
 ---
 title: Multiscale geometric and topological analyses for characterizing and predicting immune responses from single cell data
-summary: This review describes approaches to characterize immune heterogeneity at multiple resolutions.<br /><br />A Venkat, D Bhaskar, S Krishnaswamy. *Cell Trends in Immunology*.
+summary: This review describes approaches to characterize immune heterogeneity at multiple resolutions.<br /><br />A Venkat, D Bhaskar, S Krishnaswamy. *Cell Trends in Immunology* 2023.
 tags:
   - Cellular Heterogeneity
   - Multiscale structure
