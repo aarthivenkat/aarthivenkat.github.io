@@ -17,7 +17,4 @@ links:
     name: Paper
     icon_pack: fas
     url: https://www.science.org/doi/10.1126/sciimmunol.abg7836
-  - icon: square-check
-    icon_pack: fas
-    name: Manuscript Published
 ---
