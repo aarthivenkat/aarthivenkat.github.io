@@ -19,7 +19,4 @@ links:
     name: Paper
     icon_pack: fas
     url: https://www.cell.com/trends/immunology/fulltext/S1471-4906(23)00084-4
-  - icon: square-check
-    icon_pack: fas
-    name: Manuscript Published
 ---
