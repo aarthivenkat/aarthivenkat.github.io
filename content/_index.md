@@ -48,6 +48,9 @@ sections:
     content:
       title: Projects
     design:
+      filters:
+          folders:
+            - project
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       # view: list
