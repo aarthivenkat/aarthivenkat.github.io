@@ -46,11 +46,11 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
-    design:
+      title: Selected Projects
       filters:
-          folders:
-            - project
+        folders:
+          - project
+    design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       # view: list
