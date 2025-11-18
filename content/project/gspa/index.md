@@ -22,7 +22,7 @@ links:
     name: Paper
     icon_pack: fas
     url: https://www.nature.com/articles/s43588-024-00734-0
- - icon: paperclip
+  - icon: paperclip
     name: LoG Abstract
     icon_pack: fas
     url: https://openreview.net/attachment?id=d59AhkXdqe&name=pdf
