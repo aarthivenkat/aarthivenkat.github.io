@@ -47,35 +47,6 @@ sections:
     id: projects
     content:
       title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Cellular Heterogeneity
-          tag: Cellular Heterogeneity
-        - name: Patient-level Analysis
-          tag: Patient-level Analysis
-        - name: Multiscale structure
-          tag: Multiscale structure
-        - name: Multimodal mapping
-          tag: Multimodal mapping
-        - name: Cellular Dynamics
-          tag: Cellular Dynamics
-        - name: Biological prior knowledge
-          tag: Biological prior knowledge
-        - name: Cellular Signaling
-          tag: Cellular Signaling
-        - name: First Author
-          tag: First author
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
