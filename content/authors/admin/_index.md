@@ -16,7 +16,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Eric and Wendy Schmidt Center Postdoctoral Fellow @ Broad Institute
+role: Postdoctoral Fellow in the Schmidt Center @ Broad Institute of MIT and Harvard
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,7 +26,7 @@ organizations:
     url: https://cbb.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Geometric representation learning toward insights into cellular and molecular behavior.
+bio: Translating cellular and molecular biological insights into personalized patient interventions with geometric ML.
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -71,8 +71,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Aarthi Venkat is a Postdoctoral Fellow in the [Schmidt Center](https://www.ericandwendyschmidtcenter.org) at the Broad Institute of MIT and Harvard. Co-mentored by Drs. [Marinka Zitnik](https://zitniklab.hms.harvard.edu) and [Nir Hacohen](https://hacohenlab.mgh.harvard.edu), her work focuses on translating molecular and cellular insights into personalized patient interventions using geometric machine learning. Prior to her postdoctoral work, Aarthi completed her Ph.D. at Yale University with Dr. [Smita Krishnaswamy](https://krishnaswamylab.org/), where she developed new methodology and collaborated across diverse disciplines toward an improved understanding of single-cell biology. Her work has appeared in journals such as Nature, Cancer Discovery, Genome Research, and Cell Patterns, as well as in computer science conferences such as ICASSP, LoG, and GSP.
 
-During my Ph.D. at Yale University in the [Krishnaswamy Lab](https://krishnaswamylab.org/), I developed representation learning approaches that learn from geometric structure and reveal patterns that characterize cellular and molecular behavior, especially from single-cell sequencing data. Currently, I am a Postdoctoral Fellow at the Broad Institute, working with Drs. [Marinka Zitnik](https://zitniklab.hms.harvard.edu) and [Nir Hacohen](https://hacohenlab.mgh.harvard.edu) to bridge single-cell biology with structured prior knowledge across multiple scales for an integrated, systems-wide approach to discovery and intervention.
-
-My interests are highly interdisciplinary, and I have led collaborations spanning a broad range of research areas, appearing in _Nature_, _Nature Computational Science_, _Science Immunology_, _Cell Patterns_, and _Genome Research_. Additionally, my work has been accepted at notable computer science and graph signal procesing conferences, including SampTA, LoG, GSP, and ICASSP.
 {style="text-align: justify;"}
