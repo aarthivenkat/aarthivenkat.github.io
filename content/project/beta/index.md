@@ -19,6 +19,6 @@ links:
     url: https://www.nature.com/articles/s41467-026-69821-2
   - icon: people-group
     icon_pack: fas
-    name: Yale Single Cell Symposium 2022
+    name: Eric and Wendy Schmidt Symposium 2025
     url: uploads/SCS_slides.pdf
 ---
