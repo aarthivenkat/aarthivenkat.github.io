@@ -1,7 +1,7 @@
 
 ---
 title: Beta cells are essential drivers of pancreatic ductal adenocarcinoma development
-summary: Disentangling the origin of β cells misexpressing pro-tumorigenic hormones in the context of obesity and other stressors.<br /><br />C Garcia*, A Venkat*, DC McQuaid*,...,S Krishnaswamy, MD Muzumdar. In Revision.
+summary: Disentangling the origin of β cells misexpressing pro-tumorigenic hormones in the context of obesity and other stressors.<br /><br />C Garcia*, A Venkat*, DC McQuaid*,...,S Krishnaswamy, MD Muzumdar. _Nature Communications_ 2026.
 tags:
   - Cellular Heterogeneity
   - Multimodal mapping
