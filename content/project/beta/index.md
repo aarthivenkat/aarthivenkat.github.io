@@ -11,13 +11,12 @@ tags:
 date: "2023-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.biorxiv.org/content/10.1101/2024.11.29.626079v1.full'
-
+external_link: 'https://www.nature.com/articles/s41467-026-69821-2'
 links:
   - icon: paperclip
     name: Paper
     icon_pack: fas
-    url: https://www.biorxiv.org/content/10.1101/2024.11.29.626079v1.full
+    url: https://www.nature.com/articles/s41467-026-69821-2
   - icon: people-group
     icon_pack: fas
     name: Yale Single Cell Symposium 2022
