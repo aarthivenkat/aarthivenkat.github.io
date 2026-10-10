@@ -18,4 +18,8 @@ links:
     name: Paper
     icon_pack: fas
     url: https://openreview.net/forum?id=5bHHy81McV&referrer=%5BAuthor%20Console%5D%28%2Fgroup%3Fid%3DICML.cc%2F2026%2FWorkshop%2FFM4LS%2FAuthors%23your-submissions%29
+  - icon: people-group
+    icon_pack: fas
+    name: Eric and Wendy Schmidt Symposium 2026
+    url: uploads/POPPY_poster.pdf
 ---
