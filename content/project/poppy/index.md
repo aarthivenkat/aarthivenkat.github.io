@@ -1,7 +1,7 @@
 
 ---
 title: Cross-modal transfer learning for mapping bulk transcriptomes at cellular level
-summary:  POPPY is a contrastive learning framework that transfers single-cell foundation model representations to bulk transcriptomics via ontology-aware alignment, enabling generalizable patient embeddings and phenotype prediction.<br /><br />A Venkat, Z Jiang*, D Marbach*, N Hacohen#, M Zitnik#. ICML 2026 FM4LS Workshop.
+summary:  POPPY is a contrastive learning framework that transfers single-cell foundation model representations to bulk transcriptomics via ontology-aware alignment, enabling generalizable patient embeddings and phenotype prediction.<br /><br />A Venkat, Z Jiang*, D Marbach*, N Hacohen, M Zitnik. ICML 2026 FM4LS Workshop.
 tags:
   - Cellular Heterogeneity
   - Multimodal mapping
