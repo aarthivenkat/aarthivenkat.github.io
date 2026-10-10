@@ -1,6 +1,6 @@
 ---
 title: AAnet resolves a continuum of spatially-localized cell states to unveil tumor complexity
-summary: AAnet is a neural network for nonlinear archetypal analysis of single-cell data.<br /><br />A Venkat*, S Youlten*, BP San Juan*...S Krishnaswamy, CL Chaffer. *Cancer Discovery* 2025.
+summary: AAnet is a neural network for nonlinear archetypal analysis of single-cell data.<br /><br />A Venkat*, S Youlten*, BP San Juan*,...,S Krishnaswamy, CL Chaffer. *Cancer Discovery* 2025.
 
 tags:
   - Cellular Heterogeneity
