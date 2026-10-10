@@ -26,7 +26,7 @@ organizations:
     url: https://cbb.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Translating cellular and molecular biological insights into personalized patient interventions with geometric ML.
+bio: Machine learning for multiscale functional genomics.
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -71,6 +71,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Aarthi Venkat is a Postdoctoral Fellow in the [Schmidt Center](https://www.ericandwendyschmidtcenter.org) at the Broad Institute of MIT and Harvard. Co-mentored by Drs. [Marinka Zitnik](https://zitniklab.hms.harvard.edu) and [Nir Hacohen](https://hacohenlab.mgh.harvard.edu), her work focuses on translating molecular and cellular insights into personalized patient interventions using geometric machine learning. Prior to her postdoctoral work, Aarthi completed her Ph.D. at Yale University with Dr. [Smita Krishnaswamy](https://krishnaswamylab.org/), where she developed new methodology and collaborated across diverse disciplines toward an improved understanding of single-cell biology. Her work has appeared in journals such as Nature, Cancer Discovery, Genome Research, and Cell Patterns, as well as in computer science conferences such as ICASSP, LoG, and GSP.
+Aarthi Venkat is a Postdoctoral Fellow in the [Schmidt Center](https://www.ericandwendyschmidtcenter.org) at the Broad Institute of MIT and Harvard. Co-mentored by Drs. [Marinka Zitnik](https://zitniklab.hms.harvard.edu) and [Nir Hacohen](https://hacohenlab.mgh.harvard.edu), her work advances geometric machine learning foundations toward a deeper understanding of patient biology, focusing on learning molecular and cellular insights. Prior to her postdoctoral work, Aarthi completed her Ph.D. at Yale University with Dr. [Smita Krishnaswamy](https://krishnaswamylab.org/), where she developed new methodology for single-cell analysis, collaborating across diverse disciplines to generate biologically-plausible hypotheses and actionable scientific insights. Her work has appeared in journals such as Cancer Discovery, Nature Computational Science, and Genome Research, as well as in computer science conferences such as ICASSP and LoG.
 
 {style="text-align: justify;"}
+
+<div class="flourish-embed flourish-network" data-src="visualisation/15913395"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
